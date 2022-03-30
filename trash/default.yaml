@@ -1,0 +1,11 @@
+patch:
+  "menu/page_size": 6
+  "switcher/hotkeys": 
+    "Control+grave"
+    ascii_composer/good_old_caps_lock: true
+    ascii_composer/switch_key:
+        Caps_Lock: noop
+        Shift_L: commit_code
+        Shift_R: inline_ascii
+        Control_L: clear
+        Control_R: commit_text

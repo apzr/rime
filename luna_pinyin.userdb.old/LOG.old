@@ -1,0 +1,6 @@
+2022/02/17-08:38:56.685000 12192 Log #455: 0 ops saved to Table #456 OK
+2022/02/17-08:38:56.686000 12192 Archiving C:\Users\Administrator\AppData\Roaming\Rime\luna_pinyin.userdb/000455.log: OK
+2022/02/17-08:38:56.691000 12192 Table #449: 5834 entries OK
+2022/02/17-08:38:56.693000 12192 Table #451: 690 entries OK
+2022/02/17-08:38:56.701000 12192 Archiving C:\Users\Administrator\AppData\Roaming\Rime\luna_pinyin.userdb/MANIFEST-000453: OK
+2022/02/17-08:38:56.713000 12192 **** Repaired leveldb C:\Users\Administrator\AppData\Roaming\Rime\luna_pinyin.userdb; recovered 2 files; 251824 bytes. Some data may have been lost. ****
